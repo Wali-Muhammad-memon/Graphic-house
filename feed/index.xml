@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechArena Solution</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Come to Hire Us!</description>
+	<lastBuildDate>Fri, 15 May 2020 10:41:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Edit Cat Image</title>
+		<link>./../edit-cat-image/index.html</link>
+					<comments>./../edit-cat-image/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 15 May 2020 10:41:37 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=55</guid>
+
+					<description><![CDATA[In this image we edit this picture as there both eyes are white color but we convert it in black color.]]></description>
+										<content:encoded><![CDATA[
+<p>In this image we edit this picture as there both eyes are white color but we convert it in black color.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../edit-cat-image/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Brand Poster</title>
+		<link>./../brand-poster/index.html</link>
+					<comments>./../brand-poster/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 15 May 2020 10:39:22 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=52</guid>
+
+					<description><![CDATA[As you can see our quality of work in which we create Poster for outlet to convey or tell the people for new arrivals and discounts.]]></description>
+										<content:encoded><![CDATA[
+<p>As you can see our quality of work in which we create Poster for outlet to convey or tell the people for new arrivals and discounts.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../brand-poster/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Texture Post</title>
+		<link>./../texture-post/index.html</link>
+					<comments>./../texture-post/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 15 May 2020 10:36:29 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=48</guid>
+
+					<description><![CDATA[This is our latest post in which we use typography method for client I hope you the texture and post.]]></description>
+										<content:encoded><![CDATA[
+<p>This is our latest post in which we use typography method for client I hope you the texture and post.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../texture-post/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>./../hello-world/index.html</link>
+					<comments>./../hello-world/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 06 May 2020 11:02:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../index.html?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../hello-world/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
